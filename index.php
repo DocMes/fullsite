@@ -6,6 +6,8 @@
     <link rel="stylesheet" href="css/main.css" type="text/css" charset="utf-8">
 </head>
 <body>
-	<p>тест</p>
+	<header>
+
+    </header>
 </body>
 </html>
